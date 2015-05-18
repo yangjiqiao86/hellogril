@@ -1,5 +1,5 @@
 {
-  "name": "helloworld",
+  "name": "hellogril",
   "version": "0.0.0",
   "description": "My very first package",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yangjiqiao86/helloworld.git"
+    "url": "https://github.com/yangjiqiao86/hellogril.git"
   },
   "author": "yangjiqiao86"
 }
