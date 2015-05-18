@@ -1,0 +1,14 @@
+{
+  "name": "helloworld",
+  "version": "0.0.0",
+  "description": "My very first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yangjiqiao86/helloworld.git"
+  },
+  "author": "yangjiqiao86"
+}
